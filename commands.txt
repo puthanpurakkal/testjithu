@@ -1,2 +1,4 @@
 git init=>to initialise git
 git status=>list all untracked files
+git add-A=>adding to sa
+git commit -m=to add local respository
